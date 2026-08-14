@@ -26,6 +26,9 @@ Roughly two years in, self-taught, Make.com Advanced Certified. Most of my work 
 |---|---|
 | [multi-tenant-rag-architecture](https://github.com/Haris001-bit/multi-tenant-rag-architecture) | Design notes from a production RAG platform — retrieval, reranking, tenant isolation, latency tiering |
 | [change-detection-pipeline-patterns](https://github.com/Haris001-bit/change-detection-pipeline-patterns) | Patterns for detecting state changes in systems you don't control |
+| [multi-inbox-email-triage](https://github.com/Haris001-bit/multi-inbox-email-triage) | Email automation across nine shared inboxes — idempotency, thread identity, multi-label intent, never auto-send |
+| [white-label-automation-architecture](https://github.com/Haris001-bit/white-label-automation-architecture) | One product, seven customer deployments — clone-per-tenant tradeoffs, config as data, vision estimation |
+| [vision-document-extraction](https://github.com/Haris001-bit/vision-document-extraction) | Structured data out of layout-heavy documents — scatter-gather extraction, data contracts, entity matching |
 
 *More in progress — original tooling and further architecture write-ups.*
 
