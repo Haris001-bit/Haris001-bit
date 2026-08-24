@@ -60,5 +60,3 @@ These are engineering write-ups rather than client deliverables. Client work is 
 ## Get in touch
 
 Available for automation engineering, contract or full-time, remote.
-
-📧 hariswassan001@gmail.com
