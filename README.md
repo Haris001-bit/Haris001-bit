@@ -2,7 +2,7 @@
 
 **AI engineer.** I build production AI platforms end to end: the product, the AI agents and retrieval inside it, and the security and data architecture underneath.
 
-Founding AI engineer at a fintech, AI lead on a multi-tenant compliance platform, and builder of AI agents that have handled 6,700+ real customer conversations. Usually the engineer who takes a system from scoping through to production and handover.
+Founding AI engineer at a fintech, AI lead on a multi-tenant compliance platform, and builder of AI agents that have automated 8,700+ real support tickets. Usually the engineer who takes a system from scoping through to production and handover.
 
 ---
 
@@ -22,7 +22,7 @@ Founding AI engineer at a fintech, AI lead on a multi-tenant compliance platform
 
 ### Production AI systems
 
-**AI customer support agent for a UK broadband provider.** 6,700+ conversations, 2,400+ tickets automated, 21,000+ agent minutes saved. It checks the CRM and live outages mid-chat and routes escalations across 7 departments.
+**AI customer support agent for a UK broadband provider.** 8,700+ tickets automated and 79,000+ agent minutes saved. It checks the CRM and live outages mid-chat and routes escalations across 7 departments.
 
 **WhatsApp retention engine for the same provider.** Consent-gated personalised offers with SMS fallback, AI reply handling and a ticketed handover to the retention team.
 
